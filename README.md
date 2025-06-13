@@ -17,11 +17,10 @@ This project demonstrates a collection of mini graph-based workflows using [Lang
 ---
 
 
-# Feature/ Rag_Agent Branch Components
+## Rag_Agent Branch Components
 
-## Description
 
-This branch contains Python scripts for building intelligent AI agents leveraging LangChain, LangGraph, Chroma vector stores, and OpenAI's GPT models. It includes agents designed for document drafting, conversational memory management, external tool execution, and retrieval-augmented generation (RAG).
+This contains Python scripts for building intelligent AI agents leveraging LangChain, LangGraph, Chroma vector stores, and OpenAI's GPT models. It includes agents designed for document drafting, conversational memory management, external tool execution, and retrieval-augmented generation (RAG).
 
 ---
 
