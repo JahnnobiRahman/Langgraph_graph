@@ -1,0 +1,9 @@
+Your conversation log:
+
+You: Hi, I'm Jahnnobi
+AI: Hello, Jahnnobi! How can I assist you today?
+
+You: I'm a doctor
+AI: That's great to hear, Jahnnobi! As a doctor, you must have a fascinating and rewarding career. Is there anything specific you'd like to discuss or any way I can assist you today?
+
+End of conversation
