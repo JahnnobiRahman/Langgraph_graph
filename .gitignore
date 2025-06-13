@@ -2,6 +2,10 @@
 .env
 .env.*
 
+# Large binary files
+**/data_level0.bin
+**/*.bin
+
 # Python
 __pycache__/
 *.py[cod]
@@ -39,7 +43,3 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
-
-# Large binary files
-**/data_level0.bin
-**/*.bin 
